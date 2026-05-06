@@ -7,7 +7,7 @@ Bem-vindo ao meu laboratório de Banco de Dados. Este repositório documenta a m
 * **IDE/Cliente:** DBeaver
 * **Foco Atual:** DDL (Data Definition Language), DQL (Data Query Language) e DML (Data Manipulation Language).
 
-## 📂 Arquitetura do Laboratório
+## Arquitetura do Laboratório
 
 * **`/01_fundamentos_ddl`**: Scripts de criação de ambiente. Setup de bancos de dados relacionais, tipagem de colunas (INT, VARCHAR, DECIMAL) e injeção de dados de teste (INSERT).
   
