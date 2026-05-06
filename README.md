@@ -1,16 +1,17 @@
-# Laboratório de Engenharia de Dados
+# SQL Engineering Lab
 
-Repositório focado na construção, modelagem e extração de dados usando MySQL.
+Bem-vindo ao meu laboratório de Banco de Dados. Este repositório documenta a minha evolução na linguagem SQL, focada em MySQL, resolvendo problemas e simulando estruturas de dados para regras de negócio.
 
-## Tecnologias Utilizadas
-* MySQL (DDL, DML, DQL)
-* WampServer
-* MySQL Workbench
-* DBeaver
+## Tecnologias e Ferramentas
+* **Linguagem:** SQL (MySQL)
+* **IDE/Cliente:** DBeaver
+* **Foco Atual:** DDL (Data Definition Language), DQL (Data Query Language) e DML (Data Manipulation Language).
 
-## O que estou construindo aqui
-* Scripts de criação de tabelas relacionais e chaves (PK/FK).
-* Comandos CRUD (Manipulação de Dados).
-* Consultas e Filtros.
-* Relacionar tabelas e Subqueries.
-* Modelagem e Estruturação de Banco de Dados.
+## 📂 Arquitetura do Laboratório
+
+* **`/01_fundamentos_ddl`**: Scripts de criação de ambiente. Setup de bancos de dados relacionais, tipagem de colunas (INT, VARCHAR, DECIMAL) e injeção de dados de teste (INSERT).
+* **`/02_extracao_basica`**: Consultas estruturais (SELECT) e ordenamento de relatórios industriais (ORDER BY).
+* **`/03_filtros_logicos`**: Operações de extração cirúrgica utilizando operadores relacionais, lógicas booleanas (AND/OR) e operadores de conjunto (IN, BETWEEN).
+
+---
+*Status: Ainda evoluindo. Forjando a base de dados linha por linha.*
