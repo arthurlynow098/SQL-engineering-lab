@@ -10,7 +10,9 @@ Bem-vindo ao meu laboratório de Banco de Dados. Este repositório documenta a m
 ## 📂 Arquitetura do Laboratório
 
 * **`/01_fundamentos_ddl`**: Scripts de criação de ambiente. Setup de bancos de dados relacionais, tipagem de colunas (INT, VARCHAR, DECIMAL) e injeção de dados de teste (INSERT).
+  
 * **`/02_extracao_basica`**: Consultas estruturais (SELECT) e ordenamento de relatórios industriais (ORDER BY).
+  
 * **`/03_filtros_logicos`**: Operações de extração cirúrgica utilizando operadores relacionais, lógicas booleanas (AND/OR) e operadores de conjunto (IN, BETWEEN).
 
 ---
