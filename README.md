@@ -1,3 +1,9 @@
+<p align="center"><img src="https://raw.githubusercontent.com/arthurlynow098/arthurlynow098/main/assets/ars-codex-banner.png" alt="Arthur Mendes Entsev — gravura alquímica minimalista" width="100%"></p>
+
+<p align="center"><sub>☉ &nbsp; ARS CODEX &nbsp; · &nbsp; SQL-engineering-lab &nbsp; ☽</sub></p>
+
+---
+
 # SQL Engineering Lab
 
 Bem-vindo ao meu laboratório de Banco de Dados. Este repositório documenta a minha evolução na linguagem SQL, focada em MySQL, resolvendo problemas e simulando estruturas de dados para regras de negócio.
@@ -17,3 +23,7 @@ Bem-vindo ao meu laboratório de Banco de Dados. Este repositório documenta a m
 
 ---
 *Status: Ainda evoluindo. Forjando a base de dados linha por linha.*
+
+---
+
+<p align="center"><sub>☿ &nbsp; Estudo · construção · evolução &nbsp; ☿</sub><br><a href="https://github.com/arthurlynow098">Perfil</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
