@@ -4,21 +4,33 @@
 
 <p align="center">Laboratório de criação de tabelas, consultas, filtros e indicadores em SQL.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-C52E36?style=flat-square" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-24272E?style=flat-square" alt="SQL">
-  <img src="https://img.shields.io/badge/Dados-24272E?style=flat-square" alt="Dados">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="MySQL · SQL · Dados" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Preparação** | Criação de bancos, tabelas e registros. | [Abrir preparação →](01_fundamentos_ddl) |
+| **Consultas** | Seleção de dados e ordenação. | [Abrir consultas →](02_extracao_basica) |
+| **Filtros** | Condições, intervalos e operadores lógicos. | [Abrir filtros →](03_filtros_logicos) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 O **SQL Engineering Lab** documenta minha evolução prática na construção, modelagem e extração de dados relacionais utilizando **MySQL**. Mais do que comandos isolados, cada módulo simula cenários reais de sistemas corporativos e industriais — desde a definição rigorosa de tipos e tabelas até a criação de sinalizadores lógicos (*flags*) para relatórios de negócio.
 
-## Principais módulos do laboratório
+<a id="principais-módulos-do-laboratório"></a>
+
+![Principais módulos do laboratório](assets/docs/section-03.svg)
 
 | Diretório | Escopo técnico |
 |---|---|
@@ -45,7 +57,7 @@ flowchart LR
 ```text
 SQL-engineering-lab/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── 01_fundamentos_ddl/
 │   └── Criação de bancos, tabelas e inserts.sql            Setup de schema e carga inicial
 ├── 02_extracao_basica/
@@ -59,7 +71,9 @@ SQL-engineering-lab/
 
 </details>
 
-## Como executar
+<a id="como-executar"></a>
+
+![Como executar](assets/docs/section-04.svg)
 
 1. Clone o repositório:
    ```bash
