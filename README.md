@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de SQL-engineering-lab" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="SQL-engineering-lab" width="100%">
 </p>
-
-<h1 align="center">SQL-engineering-lab</h1>
 
 <p align="center">Laboratório de criação de tabelas, consultas, filtros e indicadores em SQL.</p>
 
