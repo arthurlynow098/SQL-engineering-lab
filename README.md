@@ -4,7 +4,7 @@
 
 <p align="center">Laboratório de criação de tabelas, consultas, filtros e indicadores em SQL.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="MySQL · SQL · Dados" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="MySQL · SQL · Dados" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Preparação** | Criação de bancos, tabelas e registros. | [Abrir preparação →](01_fundamentos_ddl) |
-| **Consultas** | Seleção de dados e ordenação. | [Abrir consultas →](02_extracao_basica) |
-| **Filtros** | Condições, intervalos e operadores lógicos. | [Abrir filtros →](03_filtros_logicos) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Preparação</strong></td><td>Criação de bancos, tabelas e registros.</td><td><a href="01_fundamentos_ddl">Abrir preparação →</a></td></tr>
+<tr><td><strong>Consultas</strong></td><td>Seleção de dados e ordenação.</td><td><a href="02_extracao_basica">Abrir consultas →</a></td></tr>
+<tr><td><strong>Filtros</strong></td><td>Condições, intervalos e operadores lógicos.</td><td><a href="03_filtros_logicos">Abrir filtros →</a></td></tr>
+</table>
 
 <a id="visão-geral"></a>
 
