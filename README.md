@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="SQL-engineering-lab" width="100%">
+  <img src="assets/identity/banner.png" alt="SQL-engineering-lab" width="100%">
 </p>
 
 <p align="center">Laboratório de criação de tabelas, consultas, filtros e indicadores em SQL.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="MySQL · SQL · Dados" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#como-executar">Como executar</a></p>
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <a id="explore-o-projeto"></a>
 
-![Explore o projeto](assets/docs/section-01.svg)
+## Por onde começar
 
-![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-<table width="100%">
-<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
-<tr><td><strong>Preparação</strong></td><td>Criação de bancos, tabelas e registros.</td><td><a href="01_fundamentos_ddl">Abrir preparação →</a></td></tr>
-<tr><td><strong>Consultas</strong></td><td>Seleção de dados e ordenação.</td><td><a href="02_extracao_basica">Abrir consultas →</a></td></tr>
-<tr><td><strong>Filtros</strong></td><td>Condições, intervalos e operadores lógicos.</td><td><a href="03_filtros_logicos">Abrir filtros →</a></td></tr>
-</table>
+- **[Preparação](01_fundamentos_ddl)** — Criação de bancos, tabelas e registros.
+- **[Consultas](02_extracao_basica)** — Seleção de dados e ordenação.
+- **[Filtros](03_filtros_logicos)** — Condições, intervalos e operadores lógicos.
+
 
 <a id="visão-geral"></a>
 
-![Visão geral](assets/docs/section-02.svg)
+## Visão geral
 
 O **SQL Engineering Lab** documenta minha evolução prática na construção, modelagem e extração de dados relacionais utilizando **MySQL**. Mais do que comandos isolados, cada módulo simula cenários reais de sistemas corporativos e industriais — desde a definição rigorosa de tipos e tabelas até a criação de sinalizadores lógicos (*flags*) para relatórios de negócio.
 
 <a id="principais-módulos-do-laboratório"></a>
 
-![Principais módulos do laboratório](assets/docs/section-03.svg)
+## Principais módulos do laboratório
 
 | Diretório | Escopo técnico |
 |---|---|
@@ -58,7 +54,7 @@ flowchart LR
 ```text
 SQL-engineering-lab/
 ├── assets/
-│   └── banner-v2.png               Banner do projeto
+│   └── identity/banner.png               Banner do projeto
 ├── 01_fundamentos_ddl/
 │   └── Criação de bancos, tabelas e inserts.sql            Setup de schema e carga inicial
 ├── 02_extracao_basica/
@@ -74,7 +70,7 @@ SQL-engineering-lab/
 
 <a id="como-executar"></a>
 
-![Como executar](assets/docs/section-04.svg)
+## Como executar
 
 1. Clone o repositório:
    ```bash
@@ -83,7 +79,7 @@ SQL-engineering-lab/
 2. Abra os scripts no **DBeaver** ou **MySQL Workbench** conectado a uma instância MySQL 8.0+.
 3. Execute primeiro o script de 01_fundamentos_ddl/ para construir o ambiente antes de rodar as consultas analíticas das pastas seguintes.
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
